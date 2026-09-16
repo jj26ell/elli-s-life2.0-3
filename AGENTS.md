@@ -7,3 +7,13 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+<!-- BEGIN:egdesk-dev-context -->
+## EGDesk Development Context
+
+EGDesk opened this project with the dev server on **port 4004** (http://localhost:4004, coding (dev)).
+Do not assume port 3000. Use port 4004 for local preview and dev commands.
+EGDesk MCP/API runs at http://localhost:8080.
+
+See `.agents/rules/egdesk-dev-context.md` for full details.
+<!-- END:egdesk-dev-context -->
