@@ -13,11 +13,11 @@ const slides = [
     text: "어제보다 더 나은 오늘을 만들어가기 위해 애쓴다. 그것이 스스로에 대한 존중이다."
   },
   {
-    image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=2000&auto=format&fit=crop", // 하늘 (Sky)
+    image: "https://images.unsplash.com/photo-1509803874385-db7c23652552?q=80&w=2000&auto=format&fit=crop", // 하늘 (Sky)
     text: "배움은 일상을 지켜나가는 것으로 완성된다."
   },
   {
-    image: "https://images.unsplash.com/photo-1558236528-912a2bf8fb5e?q=80&w=2000&auto=format&fit=crop", // 정원 (Garden)
+    image: "https://images.unsplash.com/photo-1588628566587-dbd176de94b4?q=80&w=2000&auto=format&fit=crop", // 정원 (Garden)
     text: "마음을 지켜낸다는 것은 먼저 마음을 열고, 대화하고, 아는 것이 선행되야 한다."
   }
 ];
