@@ -13,7 +13,7 @@ const slides = [
     text: "어제보다 더 나은 오늘을 만들어가기 위해 애쓴다. 그것이 스스로에 대한 존중이다."
   },
   {
-    image: "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?q=80&w=2000&auto=format&fit=crop", // 하늘 (Sky)
+    image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=2000&auto=format&fit=crop", // 하늘 (Sky)
     text: "배움은 일상을 지켜나가는 것으로 완성된다."
   },
   {
