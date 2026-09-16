@@ -17,7 +17,7 @@ const slides = [
     text: "배움은 일상을 지켜나가는 것으로 완성된다."
   },
   {
-    image: "https://images.unsplash.com/photo-1588628566587-dbd176de94b4?q=80&w=2000&auto=format&fit=crop", // 정원 (Garden)
+    image: "/garden.jpg", // 정원 (Garden)
     text: "마음을 지켜낸다는 것은 먼저 마음을 열고, 대화하고, 아는 것이 선행되야 한다."
   }
 ];
